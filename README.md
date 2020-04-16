@@ -1,2 +1,2 @@
 # CssNoteBook
-leaning css
+learning css
